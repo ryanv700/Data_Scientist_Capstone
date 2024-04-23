@@ -16,7 +16,7 @@ The specific packages used in this project mainly are pandas, numpy, matplotlib,
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using the Seattle Airbnb Open Data to better understand:
+For this project, I was interestested in using the Starbucks Open Data to better understand:
 
 1. Can we predict which users are more or less likely to complete a bogo or discount offer?
 2. What is the best model for performing this prediction and how high can we get our out of sample f1 score?
@@ -24,7 +24,7 @@ For this project, I was interestested in using the Seattle Airbnb Open Data to b
 
 ## File Descriptions <a name="files"></a>
 
-There is 1 notebooks available here to showcase work related to the above questions.  
+There is 1 notebook available here to showcase work related to the above questions.  
 
 ## Results<a name="results"></a>
 
